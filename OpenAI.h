@@ -13,7 +13,7 @@
 
 // The system prompt and endpoint
 static const char systemPrompt[] PROGMEM = 
-  "You are a helpful assistant, always providing short, direct answers. simple text. Keep them very concise.";
+  "You are a concise assistant. Provide answers in simple text, each no longer than 150 characters";
 static const char endpoint[]     PROGMEM = 
   "https://api.openai.com/v1/chat/completions";
 
