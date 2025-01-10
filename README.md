@@ -1,6 +1,3 @@
-# CardputerGPT
-ChatGPT client for M5Stack Cardputer
-
 # **CardputerGPT - M5Stack Cardputer ChatGPT Interface**
 
 This is an open-source project that transforms your M5Stack Cardputer into an interactive AI assistant powered by OpenAI's GPT models. The interface supports multi-turn conversations, typed assistant responses, scrolling, and dynamic user interaction.
