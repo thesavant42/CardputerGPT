@@ -15,7 +15,7 @@
 static const char systemPrompt[] PROGMEM = 
   "You are a concise assistant. Provide answers in simple text, each no longer than 150 characters";
 static const char endpoint[]     PROGMEM = 
-  "https://api.openai.com/v1/chat/completions";
+  "http://192.168.1.98:1234/v1/chat/completions";
 
 class OpenAI {
 public:
